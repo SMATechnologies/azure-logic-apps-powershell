@@ -1,4 +1,4 @@
-# Project Name
+# azure-logic-apps-powershell-monitor
 The powershell_azure_logic_app_monitor.ps1 is a Powershell script that can kick off a long running Azure Logic App workflow and continually monitor the process until the workflow 
 
       (a) finishes successfully
